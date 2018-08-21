@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="65px" height="65px" viewboc="0 0 65 65" xmlns="http://www.w3.org/2000/svg">
+    <g stroke="none" fill="none" fill-rule="evenodd">
+    <polygon style="fill:transparent;stroke:white;stroke-width:1.75" points="13,52 26,52 26,39 13,39"></polygon>
+    <polygon style="fill:transparent;stroke:white;stroke-width:1.75" points="13,39 13,26 26,26 26,39"></polygon>
+    <polygon style="fill:transparent;stroke:white;stroke-width:1.75" points="26,26 39,26 39,39 26,39"></polygon>
+    <polygon style="fill:transparent;stroke:white;stroke-width:1.75" points="39,26 39,13 52,13 52,26"></polygon>
+    </g>
+</svg>
